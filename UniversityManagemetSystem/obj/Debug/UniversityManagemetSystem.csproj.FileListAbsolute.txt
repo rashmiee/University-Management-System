@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\bin\Debug\UniversityManagemetSystem.exe.config
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\bin\Debug\UniversityManagemetSystem.exe
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\bin\Debug\UniversityManagemetSystem.pdb
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.Form1.resources
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.exe
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.pdb
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.Student.resources
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.Department.resources
+C:\Users\ASUS\source\repos\UniversityManagemetSystem\UniversityManagemetSystem\obj\Debug\UniversityManagemetSystem.Course.resources
